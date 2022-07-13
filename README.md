@@ -14,6 +14,6 @@ Support: TBA
 
 Roadmap: TBA 
 
-License information: _ 
+Licenced by MIT 'Full Stack Development with MERN program for educational purposes only.
 
 
