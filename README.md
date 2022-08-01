@@ -1,4 +1,4 @@
-# https://danilocanuto.github.io/PacMan/
+#Pacman
 
 ## Move the Pacman
 
