@@ -2,7 +2,7 @@
 
 ## Move the Pacman
 
-<img src= "PacMan1.png" width='200'/>
+<img src= "images/pacman1.png" width='200'/>
 
 Description: Exercise to make the Pacman move from left to right within a specific boundary, while transitioning from mouth open to mouth closed.
 
