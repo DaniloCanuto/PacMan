@@ -1,8 +1,4 @@
-#Pacman
-
-## Move the Pacman
-
-https://danilocanuto.github.io/PacMan/
+# [Pacman](https://danilocanuto.github.io/PacMan/)
 
 <img src= "images/pacman1.png" width='200'/>
 
